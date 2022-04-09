@@ -1,0 +1,104 @@
+{
+  "productList": [
+    {
+      "productName": "Papas",
+      "category": "vegetables",
+      "freshness": "Brand New",
+      "price": 321,
+      "comment": "los perdidos del amor  inalcanzable de los besos solitarios el el agua",
+      "date": "2022-04-20T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "ZAPALLO CON SAL",
+      "category": "vegetables",
+      "freshness": "Second Hand",
+      "price": 25685,
+      "comment": "COMIDA ES COMIDA Y DE LAAS MEJORES EN EL  MUNDO SOCIAL",
+      "date": "2022-04-13T05:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "12131",
+      "category": "vegetables",
+      "freshness": "Second Hand",
+      "price": 256,
+      "comment": "LOS  PEORES DEL PLANETA",
+      "date": "2022-04-13T05:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Papas",
+      "category": "vegetables",
+      "freshness": "Second Hand",
+      "price": 695,
+      "comment": "fhfdhdfhdf",
+      "date": "2022-04-15T05:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "ZAPALLO CON SAL",
+      "category": "Electronic",
+      "freshness": "refurbished",
+      "price": 3324353,
+      "comment": "23424242",
+      "date": "2022-04-13T05:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "ascacascascasc",
+      "category": "vegetables",
+      "freshness": "Brand New",
+      "price": 2568,
+      "comment": "acascascsaca",
+      "date": "2022-05-19T05:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "dqwdqwdqwd",
+      "category": "vegetables",
+      "freshness": "Second Hand",
+      "price": 145,
+      "comment": "qwdfqwdfqwdf",
+      "date": "2022-04-14T05:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "ewfwew",
+      "category": "vegetables",
+      "freshness": "Second Hand",
+      "price": 242342,
+      "comment": "werwrwr",
+      "date": "2022-04-15T05:00:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Papas",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 2132,
+      "comment": "2",
+      "date": "2022-04-14T05:00:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "sopa de cangrejo",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 52,
+      "comment": "sopa de cangrejo de los mejores",
+      "date": "2022-04-08T05:00:00.000Z",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
